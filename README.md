@@ -35,10 +35,6 @@ Certainly! Here's a brief profile of **Mohd Shahizan Othman**:
 | Nor Azizah      | 45  | Female | Nurse            | Ipoh            |
 | Adam bin Yusof | 29  | Male   | Lawyer           | Melaka          |
 | Maya binti Tan  | 33  | Female | Marketing Manager | Kuala Lumpur  |
-
-| name      | Age | City |
-|-----------|-----|------|
-| Apri      |20   | Johor|
 <!--
 **sini25/sini25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
