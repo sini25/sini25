@@ -9,7 +9,7 @@
 
 
 ## About Me 🚀
-Certainly! Here's a brief profile of **Mohd Shahizan Othman**:
+Certainly! Here's a brief profile of **Divyasini**:
 
 - **Name**: Divyaisni A.Konasegar
 - **Title**: Student
@@ -23,19 +23,7 @@ Certainly! Here's a brief profile of **Mohd Shahizan Othman**:
 
 
 
-| Name           | Age | Gender | Occupation       | City            |
-|----------------|-----|--------|------------------|-----------------|
-| Ahmad bin Ali  | 35  | Male   | Engineer         | Kuala Lumpur    |
-| Siti Aminah    | 28  | Female | Teacher          | Penang          |
-| Mohd Tan        | 42  | Male   | Doctor           | Johor Bahru     |
-| Nurul Huda      | 30  | Female | Software Developer | Cyberjaya    |
-| Abdul Rahman   | 50  | Male   | Business Owner   | Shah Alam       |
-| Farah Khadijah | 22  | Female | Student          | Kota Kinabalu   |
-| Amirul Hakim   | 38  | Male   | Accountant       | Kuching         |
-| Nor Azizah      | 45  | Female | Nurse            | Ipoh            |
-| Adam bin Yusof | 29  | Male   | Lawyer           | Melaka          |
-| Maya binti Tan  | 33  | Female | Marketing Manager | Kuala Lumpur  |
-<!--
+
 **sini25/sini25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
