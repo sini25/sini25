@@ -15,18 +15,15 @@ Certainly! Here's a brief profile of **Divyasini**:
 - **Title**: Student
 - **Department**: Faculty of Computing, Universiti Teknologi Malaysia
 - **Research Interests**:
-    - Information Retrieval and Extraction
-    - Data Mining
     - Machine Learning
+    - Digital Competency
     - Social and E-Learning
     - Business Intelligence
 
 
 
-
 **sini25/sini25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
