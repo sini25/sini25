@@ -30,6 +30,8 @@ Databases: MySQL, Firebase, MongoDB
 
 Other Tools: Git, RapidMiner, TailwindCSS, Figma
 
+
+
 🌟 Highlights
 
 ✅ Built a Flutter mobile app for student competency assessment (research project).
@@ -39,7 +41,6 @@ Other Tools: Git, RapidMiner, TailwindCSS, Figma
 ✅ Applied machine learning models to predict factors influencing digital competency.
 
 
-**sini25/sini25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 
