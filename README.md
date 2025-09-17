@@ -22,9 +22,9 @@ Certainly! Here's a brief profile of **Divyasini**:
 
 🔑Skills & Tools
 
-Languages: Dart, JavaScript (ES6+), Python, C++
+Languages: Dart, JavaScript, Typescript(basic) Python, C++
 
-Frameworks: Flutter, React, Node.js
+Frameworks: Flutter, React + Vite, Node.js
 
 Databases: MySQL, Firebase, MongoDB
 
