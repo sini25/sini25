@@ -40,7 +40,7 @@ Other Tools: Git, RapidMiner, TailwindCSS, Figma
 
 ✅ Applied machine learning models to predict factors influencing digital competency.
 
-
+Profile: https://codefinity.com/cv/88f0daf7-1b33-4e4b-ae15-6e240232b64e
 
 
 
