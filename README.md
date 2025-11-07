@@ -9,7 +9,7 @@
 
 
 ## About Me 🚀
-Certainly! Here's a brief profile of **Divyasini**:
+
 
 - **Name**: Divyaisni A.Konasegar
 - **Title**: Software Developer
