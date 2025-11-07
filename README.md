@@ -11,7 +11,7 @@
 ## About Me 🚀
 
 
-- **Name**: Divyaisni A.Konasegar
+- **Name**: Divyasii A.Konasegar
 - **Title**: Software Developer
 - **Background**: Computer Science & Software Engineering with hands-on experience in Flutter, React + Vite, Python, C# (.NET) and API integration.
 - **Strong Interest**: Machine Learning and How technology can improve efficiency in industries like electronics & manufacturing
